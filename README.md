@@ -7,7 +7,7 @@
 This report consolidates insights from three analyses—**Marketing Performance**, **Customer Behavior**, and **Business Recommendations**—to guide strategic decision-making. Key findings highlight product opportunities, demographic trends, and actionable marketing strategies to drive growth.  
 
 🚀 **Data Sources:** MySQL databases, customer journey analytics, and sentiment analysis.  
-🔧 **Tools Used:** Python, SQLAlchemy, pandas, ReportLab, TextBlob. 
+🔧 **Tools Used:** Python, mysql, pandas, ReportLab, TextBlob. 
 
 
 ## 📎 Attachments  
